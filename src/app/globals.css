@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --light-text-color: #e0e0e0;
+  --text-color: #0d0c22;
+  --border-color: #e0e0e0;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
